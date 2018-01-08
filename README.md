@@ -1,5 +1,9 @@
 # Follow Sport App
 
+[![GitHub issues](https://img.shields.io/github/issues/bitcurator/bitcurator-access-redaction.svg)](https://github.com/bitcurator/bitcurator-access-redaction/issues)
+[![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-access-redaction.svg)](https://github.com/bitcurator/bitcurator-access-redaction/network)
+[![Travis](https://img.shields.io/travis/BitCurator/bitcurator-access-redaction.svg)](https://travis-ci.org/BitCurator/bitcurator-access-redaction)
+
 > A Vue.js project
 
 ## Build Setup
