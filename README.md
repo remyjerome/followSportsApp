@@ -1,5 +1,10 @@
 # Follow Sport App
 
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?maxAge=103)](https://github.com/remyjerome/followSportsApp/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)]()
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
+[![License](https://img.shields.io/badge/License-All%20rights%20reserved-orange.svg)]()
+
 > A Vue.js project
 
 ## Build Setup
@@ -48,4 +53,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+All rights reserved
