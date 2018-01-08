@@ -1,7 +1,7 @@
 # Follow Sport App
 
-[![GitHub issues](https://img.shields.io/github/issues/bitcurator/bitcurator-access-redaction.svg)](https://github.com/remyjerome/followSportsApp/issues)
-[![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-access-redaction.svg)](https://github.com/remyjerome/followSportsApp/network)
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)]()
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 
 > A Vue.js project
