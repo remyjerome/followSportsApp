@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/remyjerome/followSportsApp/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)]()
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
-[![License](https://img.shields.io/badge/License-All%20rights%20reserved-orange.svg)
+[![License](https://img.shields.io/badge/License-All%20rights%20reserved-orange.svg)]()
 
 > A Vue.js project
 
