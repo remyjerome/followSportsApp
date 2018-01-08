@@ -53,4 +53,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-License All rights reserved
+All rights reserved
