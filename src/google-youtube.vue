@@ -65,9 +65,12 @@
       </v-layout>
     </v-toolbar>
     <v-content>
-      <v-container fill-height>
+      <v-container fill-height warp>
         <v-layout justify-center align-center>
-          <EvolutionMensuration></EvolutionMensuration>
+          <slot>
+
+
+          </slot>
           <!-- <tableau-de-bord></tableau-de-bord> -->
           <!-- <v-tooltip right>
             <v-btn icon large :href="source" target="_blank" slot="activator">
